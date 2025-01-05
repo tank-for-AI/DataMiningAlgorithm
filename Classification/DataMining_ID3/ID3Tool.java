@@ -105,7 +105,7 @@ public class ID3Tool {
 	 *            剩余的数据
 	 * @param attrName
 	 *            待划分的属性，在算信息增益的时候会使用到
-	 * @param attrValue
+	 * @param value
 	 *            划分的子属性值
 	 * @param isParent
 	 *            是否分子属性划分还是原来不变的划分
